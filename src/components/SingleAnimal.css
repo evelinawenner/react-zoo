@@ -1,0 +1,39 @@
+.single-container {
+    min-height: 100vh;
+    background-color:rgb(111, 143, 111);
+    padding: 0px;
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.single-card {
+    background-color: rgba(255, 255, 255, 0.466);
+    width: 65vw;
+}
+
+img {
+    max-width: 65vw;
+}
+
+.description {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+button {
+    margin-bottom: 40px;
+    background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+button:hover {
+    background-color: #3a863d;;
+}

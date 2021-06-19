@@ -1,0 +1,63 @@
+
+
+.container {
+    min-height: 100vh;
+    background-color:rgb(111, 143, 111);
+    padding: 0px;
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.466);
+    width: 65vw;
+}
+
+h1 {
+    font-size: 60px;
+    background-color: rgb(111, 143, 111);
+}
+
+.zoo-pres {
+    font-size: 15px;
+}
+
+ul {
+    list-style: none;
+}
+
+.animal {
+    padding: 20px;
+    font-size: 15px;
+}
+
+.animals-container {
+    padding-bottom: 30px;
+}
+
+.hungry {
+    background-color: rgb(230, 95, 95);
+    font-size: 11px;
+    padding: 2px;
+}
+
+.names {
+    font-size: 25px;
+    color: #1d1d1d;
+    font-weight: 700;
+    
+}
+
+.names:hover {
+    color: #5a805c;
+}
+
+a { 
+    text-decoration: none;
+}
+
+
+
+
